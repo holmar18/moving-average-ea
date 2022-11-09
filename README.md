@@ -1,2 +1,4 @@
-# moving-average-ea
-Moving Average - Trend strat
+# Moving Average - Trend strat
+
+
+cTrader platform EA for backtesting.
